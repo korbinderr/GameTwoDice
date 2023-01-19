@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTwoDice", "GameTwoDice\GameTwoDice.csproj", "{E8CDCC54-97C1-4A27-9E37-DE3747816E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8CDCC54-97C1-4A27-9E37-DE3747816E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CDCC54-97C1-4A27-9E37-DE3747816E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CDCC54-97C1-4A27-9E37-DE3747816E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CDCC54-97C1-4A27-9E37-DE3747816E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38EE4F1B-88A7-4BDF-9DB8-810DDF42A65C}
+	EndGlobalSection
+EndGlobal
