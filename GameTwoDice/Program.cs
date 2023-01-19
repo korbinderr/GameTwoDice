@@ -6,8 +6,8 @@ namespace GameTwoDice
     {
         static void Main(string[] args)
         {   
-            // instantiate the variable to hold the total rolls
-            int ?totalRolls = 0;
+            // instantiate the variable to hold the total rolls that the user will enter
+            int ?totalRolls = 0; 
 
             // prompt user to input number of rolls and explain game
             Console.WriteLine("Welcome to the dice throwing simulator!");
